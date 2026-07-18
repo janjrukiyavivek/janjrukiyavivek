@@ -1,6 +1,6 @@
 ### Vivek Janjrukiya
 
-**Senior Manager, Network Engineering** @ Sophos — 16+ years building and securing global network infrastructure
+**Senior Manager, Network Engineering** @ Sophos — 16+ years of experience in network engineering, cybersecurity, and infrastructure
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -11,7 +11,7 @@
 
 ---
 
-16+ years leading network engineering teams — from hands-on Cisco/Nortel/Foundry deployments to designing and running global enterprise networks at **Sophos**. Background spans network security, firewall technologies, SD-WAN, and infrastructure automation.
+16+ years in network engineering — starting hands-on with Cisco/Nortel/Foundry deployments, now leading network engineering teams at **Sophos** designing and running global enterprise networks. Background spans network security, firewall technologies, SD-WAN, and infrastructure automation.
 
 **Certifications**
 - Cisco Certified Network Professional – Routing & Switching (CCNP R&S)
