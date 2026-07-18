@@ -2,7 +2,7 @@
 
 **Infrastructure Transformation Leader** — Senior Manager, Network Engineering @ Sophos
 
-Designing secure, automated, cloud-connected enterprise infrastructure at global scale. 16+ years of experience in network engineering, cybersecurity, and infrastructure.
+From hands-on engineer to enterprise infrastructure leader — 16+ years building, securing, and modernizing global technology environments. Today I lead network, data center, and cloud storage & backup engineering at **Sophos**, driving the strategy, governance, and automation behind infrastructure that operates at scale.
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -13,10 +13,18 @@ Designing secure, automated, cloud-connected enterprise infrastructure at global
 
 ---
 
-16+ years in network engineering — starting hands-on with Cisco/Nortel/Foundry deployments, now leading network, data center, and cloud storage & backup engineering teams at **Sophos** designing and running global enterprise infrastructure. Background spans network security, firewall technologies, SD-WAN, and infrastructure automation.
+**Core Capabilities**
+- Global Enterprise Networking — architecting and operating resilient networks across international sites
+- Data Center Leadership — owning infrastructure lifecycle, capacity, and operational standards
+- Cloud & Backup Strategy — driving hybrid cloud storage and resiliency programs
+- Security & Firewall Architecture — setting enterprise-wide security standards
+- Infrastructure Automation — championing an automation-first operating model
+- Executive Reporting & Analytics — turning infrastructure data into decisions for leadership
 
 **Certifications**
+- Cisco Certified Network Associate – Routing & Switching (CCNA R&S)
 - Cisco Certified Network Professional – Routing & Switching (CCNP R&S)
+- Cisco Certified Design Associate (CCDA)
 - Cisco Certified Design Professional (CCDP)
 - Certified ScrumMaster® (CSM®)
 - ITIL® v3 Foundation
