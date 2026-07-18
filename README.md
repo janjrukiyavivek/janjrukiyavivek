@@ -19,6 +19,7 @@ From hands-on engineer to enterprise infrastructure leader — 16+ years buildin
 - Cloud & Backup Strategy — driving hybrid cloud storage and resiliency programs
 - Security & Firewall Architecture — setting enterprise-wide security standards
 - Infrastructure Automation — championing an automation-first operating model
+- Infrastructure as Code — maturing and scaling IaC practices to standardize deployment and reduce operational risk
 - Executive Reporting & Analytics — turning infrastructure data into decisions for leadership
 
 **Certifications**
