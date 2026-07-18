@@ -13,10 +13,12 @@ Designing secure, automated, cloud-connected enterprise infrastructure at global
 
 ---
 
-16+ years in network engineering — starting hands-on with Cisco/Nortel/Foundry deployments, now leading network engineering teams at **Sophos** designing and running global enterprise networks. Background spans network security, firewall technologies, SD-WAN, and infrastructure automation.
+16+ years in network engineering — starting hands-on with Cisco/Nortel/Foundry deployments, now leading network, data center, and cloud storage & backup engineering teams at **Sophos** designing and running global enterprise infrastructure. Background spans network security, firewall technologies, SD-WAN, and infrastructure automation.
 
 **Core capabilities**
 - Global enterprise networking (Cisco, BGP/OSPF, SD-WAN)
+- Data center operations
+- Cloud storage & backup infrastructure
 - Cloud networking & connectivity (AWS)
 - Firewall & security architecture
 - Infrastructure automation (Python, Terraform, Ansible)
